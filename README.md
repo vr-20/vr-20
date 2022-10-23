@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Vivek!
+- 💻 I'm currently a software engineer at Accenture. 
 - 👀 I’m interested in Data Engineering, Python Programming.
 - 🌱 I’m currently learning different Data Engineering tools.
 - 📫 Reach out to me on Linkedin: https://www.linkedin.com/in/vivekghadiyaram20/
