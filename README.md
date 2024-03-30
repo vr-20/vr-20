@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vivek!
-- 💻 I'm currently an Application Development Analyst at Accenture. 
+- 💻 I'm currently a Data Analyst at Accenture. 
 - 👀 I’m interested in Data Analytics & Data Engineering.
 - 🌱 Learning is a continuous process :)
 - 📫 Reach out to me on LinkedIn: https://www.linkedin.com/in/vivekghadiyaram20/
